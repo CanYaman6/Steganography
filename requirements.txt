@@ -1,0 +1,4 @@
+Requirments:
+8GB RAM,i5 Processor
+Software Required:
+python 12, opencv2 library, string and os module
